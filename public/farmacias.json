@@ -13,7 +13,4348 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-60.724, -31.5916]
+        "coordinates": [
+          -60.724,
+          -31.5916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "domicilio": "Pte. Roca 3170",
+        "localidad_id": 4807,
+        "name": "Deambroggio",
+        "telefono": "4893427",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7051,
+          -31.6143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "domicilio": "Irigoyen Freyre 2200",
+        "localidad_id": 4807,
+        "name": "Banchio",
+        "telefono": "4522268",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7013,
+          -31.6443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "domicilio": "Juan De Garay 2915",
+        "localidad_id": 4807,
+        "name": "Mazzali",
+        "telefono": "4581286",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7126,
+          -31.6518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "domicilio": "1 De Mayo 3695",
+        "localidad_id": 4807,
+        "name": "Duarte",
+        "telefono": "4552888",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7065,
+          -31.6322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "domicilio": "Marcial Candioti 3298",
+        "localidad_id": 4807,
+        "name": "Arrimada",
+        "telefono": "4561397",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6962,
+          -31.6392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "domicilio": "San Jeronimo 3619",
+        "localidad_id": 4807,
+        "name": "Bristol",
+        "telefono": "4537712",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7044,
+          -31.6337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "domicilio": "Estanislao Zeballos 2702",
+        "localidad_id": 4807,
+        "name": "Camilatto",
+        "telefono": "4603413",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6962,
+          -31.6051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "domicilio": "Guemes 3701",
+        "localidad_id": 4807,
+        "name": "Junges",
+        "telefono": "4561203",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6887,
+          -31.6367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "domicilio": "Blas Parera 9278",
+        "localidad_id": 4807,
+        "name": "Ranzuglia",
+        "telefono": "4883421",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7287,
+          -31.5748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "domicilio": "Aristobulo Del Valle 7500",
+        "localidad_id": 4807,
+        "name": "Spaccesi",
+        "telefono": "4605722",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.692,
+          -31.5993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "domicilio": "Guemes 4356",
+        "localidad_id": 4807,
+        "name": "Mendez",
+        "telefono": "4531945",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.687,
+          -31.6307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "domicilio": "Blas Parera 8374",
+        "localidad_id": 4807,
+        "name": "Ortega",
+        "telefono": "4842593",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7243,
+          -31.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "domicilio": "Av. Lopez Y Planes 4267",
+        "localidad_id": 4807,
+        "name": "Lopez",
+        "telefono": "4534829",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.714,
+          -31.6254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "domicilio": "Rivadavia 3298",
+        "localidad_id": 4807,
+        "name": "Wagner Burgues",
+        "telefono": "4552169",
+        "turno": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.702,
+          -31.6384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "domicilio": "Bv. Zavalla 1417",
+        "localidad_id": 4807,
+        "name": "Galizzi",
+        "telefono": "4599610",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7236,
+          -31.6567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "domicilio": "Av. Lopez Y Planes 4583",
+        "localidad_id": 4807,
+        "name": "Cornero",
+        "telefono": "4528111",
+        "turno": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7138,
+          -31.6238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "domicilio": "Mendoza 4098",
+        "localidad_id": 4807,
+        "name": "Naito",
+        "telefono": "4563842",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7268,
+          -31.6442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "domicilio": "Aristobulo Del Valle 4026",
+        "localidad_id": 4807,
+        "name": "Long",
+        "telefono": "4552457",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7011,
+          -31.6309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "domicilio": "Mendoza 2676",
+        "localidad_id": 4807,
+        "name": "Sansevich",
+        "telefono": "4522928",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7085,
+          -31.6488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "domicilio": "Las Heras 4501",
+        "localidad_id": 4807,
+        "name": "Trucco",
+        "telefono": "4528523",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6951,
+          -31.6276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "domicilio": "Gral. Paz 5773",
+        "localidad_id": 4807,
+        "name": "Theiller",
+        "telefono": "4604334",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6843,
+          -31.6176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "domicilio": "Rodriguez 3889",
+        "localidad_id": 4807,
+        "name": "Borque",
+        "telefono": "4886048",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7164,
+          -31.6182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "domicilio": "Avda. Galicia 1519",
+        "localidad_id": 4807,
+        "name": "Martínez",
+        "telefono": "4606375",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6826,
+          -31.6074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "domicilio": "9 De Julio 2198",
+        "localidad_id": 4807,
+        "name": "Barrientos",
+        "telefono": "4599601",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7104,
+          -31.6496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "domicilio": "Juan Diaz De Solis 2967",
+        "localidad_id": 4807,
+        "name": "Bertolaccini",
+        "telefono": "4529799",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.725,
+          -31.6381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "domicilio": "Aristobulo Del Valle 6897",
+        "localidad_id": 4807,
+        "name": "Suppo",
+        "telefono": "4604141",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6929,
+          -31.6049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "domicilio": "1 De Mayo 2215",
+        "localidad_id": 4807,
+        "name": "Valverde",
+        "telefono": "4535891",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7117,
+          -31.6492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "domicilio": "Avellaneda 3498",
+        "localidad_id": 4807,
+        "name": "Gomez Ortega",
+        "telefono": "4538391",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6883,
+          -31.6389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "domicilio": "Marcial Candioti 3899",
+        "localidad_id": 4807,
+        "name": "Mónica Wagner",
+        "telefono": "4522242",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6946,
+          -31.6335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "domicilio": "Av. Vera Peñaloza 7512",
+        "localidad_id": 4807,
+        "name": "Vilarrubi",
+        "telefono": "4889996",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7122,
+          -31.5947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "domicilio": "Blas Parera 7001",
+        "localidad_id": 4807,
+        "name": "Burgues Romano",
+        "telefono": "4891807",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7229,
+          -31.5974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "domicilio": "4 De Enero 1301",
+        "localidad_id": 4807,
+        "name": "Capra",
+        "telefono": "4597877",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7161,
+          -31.6593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "domicilio": "Av. Freyre 2638",
+        "localidad_id": 4807,
+        "name": "Cardoso",
+        "telefono": "4537137",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7179,
+          -31.6425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "domicilio": "General Paz 7471",
+        "localidad_id": 4807,
+        "name": "Figueroa Sobrero",
+        "telefono": "4601179",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6752,
+          -31.6035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "domicilio": "Av. Gral.Paz 5550",
+        "localidad_id": 4807,
+        "name": "Bruno",
+        "telefono": "4602204",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6855,
+          -31.6195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "domicilio": "Caseros 3176",
+        "localidad_id": 4807,
+        "name": "Facino",
+        "telefono": "4533373",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7004,
+          -31.6401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "domicilio": "Estanislao Zeballos 3731",
+        "localidad_id": 4807,
+        "name": "Brambilla",
+        "telefono": "4894243/87",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7095,
+          -31.6022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "domicilio": "Avda. Freyre 3029",
+        "localidad_id": 4807,
+        "name": "Abregú",
+        "telefono": "4531300",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7167,
+          -31.6384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "domicilio": "Diagonal Goyena 3460",
+        "localidad_id": 4807,
+        "name": "Caraballo",
+        "telefono": "4880356",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7096,
+          -31.6156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "domicilio": "25 De Mayo 3448",
+        "localidad_id": 4807,
+        "name": "Armando",
+        "telefono": "4520603",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.703,
+          -31.6364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "domicilio": "Lisandro De La Torre 2649",
+        "localidad_id": 4807,
+        "name": "Bordas",
+        "telefono": "4598370",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7089,
+          -31.6513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "domicilio": "Cassanello 898",
+        "localidad_id": 4807,
+        "name": "Sabio",
+        "telefono": "4608172",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6772,
+          -31.6131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "domicilio": "Blas Parera 5671",
+        "localidad_id": 4807,
+        "name": "Costa",
+        "telefono": "4895215",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7246,
+          -31.5919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "domicilio": "Aristobulo Del Valle 4499",
+        "localidad_id": 4807,
+        "name": "Mario Martinez",
+        "telefono": "4531597",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7003,
+          -31.6267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "domicilio": "Facundo Zuviria 4679",
+        "localidad_id": 4807,
+        "name": "Chelini",
+        "telefono": "4530348",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7057,
+          -31.6236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "domicilio": "San Jeronimo 3299",
+        "localidad_id": 4807,
+        "name": "Bosch",
+        "telefono": "4540404",
+        "turno": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7056,
+          -31.6376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "domicilio": "Saavedra 2499",
+        "localidad_id": 4807,
+        "name": "Amherdt",
+        "telefono": "4524846",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.716,
+          -31.6447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "domicilio": "Avda. Gral. Paz 7165",
+        "localidad_id": 4807,
+        "name": "Lagger",
+        "telefono": "4603500",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6762,
+          -31.6059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "domicilio": "Hipolito Yrigoyen 2421",
+        "localidad_id": 4807,
+        "name": "Roces",
+        "telefono": "4120190",
+        "turno": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7036,
+          -31.6426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "domicilio": "Padre Genesio 1901",
+        "localidad_id": 4807,
+        "name": "Pescetti",
+        "telefono": "4604447",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6845,
+          -31.6018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "domicilio": "Gral. Paz 4698",
+        "localidad_id": 4807,
+        "name": "Vignolo",
+        "telefono": "4538276",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6907,
+          -31.6267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "domicilio": "Av. Freyre 1908",
+        "localidad_id": 4807,
+        "name": "Colucci",
+        "telefono": "4599418",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7206,
+          -31.6516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "domicilio": "Padre Genesio 2971",
+        "localidad_id": 4807,
+        "name": "Zimerman",
+        "telefono": "4691616",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.698,
+          -31.5989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "domicilio": "Primero de Mayo 2899",
+        "localidad_id": 4807,
+        "name": "Fanessi",
+        "telefono": "4539000",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7095,
+          -31.6416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "domicilio": "Diagonal Goyena 3221",
+        "localidad_id": 4807,
+        "name": "Berrón",
+        "telefono": "4894530",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7064,
+          -31.6156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "domicilio": "Entre Rios 3288",
+        "localidad_id": 4807,
+        "name": "Buyatti",
+        "telefono": "4598218",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7197,
+          -31.6584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "domicilio": "Estanislao Zeballos 4453",
+        "localidad_id": 4807,
+        "name": "Santiváñez",
+        "telefono": "4892739",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7188,
+          -31.6002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "domicilio": "Balcarce 2384",
+        "localidad_id": 4807,
+        "name": "Lencinas",
+        "telefono": "4811613",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7014,
+          -31.6373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "domicilio": "Marcial Candiotti 2796",
+        "localidad_id": 4807,
+        "name": "Imhof",
+        "telefono": "4566137",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6979,
+          -31.6446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "domicilio": "Bv. Zavalla 1067",
+        "localidad_id": 4807,
+        "name": "Strada",
+        "telefono": "4599798",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7246,
+          -31.6603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "domicilio": "9 De Julio 5198",
+        "localidad_id": 4807,
+        "name": "Cattaino",
+        "telefono": "4526617",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7015,
+          -31.6195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "domicilio": "Francia 2998",
+        "localidad_id": 4807,
+        "name": "Ferro",
+        "telefono": "4555962",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.713,
+          -31.6396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "domicilio": "San Jeronimo 1995",
+        "localidad_id": 4807,
+        "name": "Esterkin",
+        "telefono": "4597766",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7099,
+          -31.6524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "domicilio": "Gral.Paz 6440",
+        "localidad_id": 4807,
+        "name": "Valetti",
+        "telefono": "4691813",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6799,
+          -31.6121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "domicilio": "Rivadavia 3193",
+        "localidad_id": 4807,
+        "name": "Garcia",
+        "telefono": "4550724",
+        "turno": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7024,
+          -31.6395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "domicilio": "Gorostiaga 3038",
+        "localidad_id": 4807,
+        "name": "Giulioni",
+        "telefono": "4889970",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7023,
+          -31.6106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "domicilio": "Saavedra 1822",
+        "localidad_id": 4807,
+        "name": "Santa Fe",
+        "telefono": "4592301",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7183,
+          -31.653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "domicilio": "Av. Penaloza 6839",
+        "localidad_id": 4807,
+        "name": "Gomez",
+        "telefono": "4843684",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7128,
+          -31.6013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "domicilio": "Aristobulo Del Valle 6029",
+        "localidad_id": 4807,
+        "name": "Bianchotti",
+        "telefono": "4691874",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6958,
+          -31.6127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "domicilio": "Santiago Del Estero 2936",
+        "localidad_id": 4807,
+        "name": "Labath",
+        "telefono": "4555146",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7084,
+          -31.6369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "domicilio": "Salvador del carril esq.L.Heras",
+        "localidad_id": 4807,
+        "name": "Lagger Zurbriggen",
+        "telefono": "4603331",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6923,
+          -31.6194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "domicilio": "Facundo Zuviria 5918",
+        "localidad_id": 4807,
+        "name": "Coniglio",
+        "telefono": "4893327",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7051,
+          -31.6118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "domicilio": "Blas Parera 7202",
+        "localidad_id": 4807,
+        "name": "Rojas",
+        "telefono": "4892747",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7234,
+          -31.5953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "domicilio": "Gral Paz 4369",
+        "localidad_id": 4807,
+        "name": "Clave",
+        "telefono": "4539694",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6926,
+          -31.6295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "domicilio": "Centro Comercial B.El Pozo L.2",
+        "localidad_id": 4807,
+        "name": "Morante",
+        "telefono": "4511485",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6588,
+          -31.6376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "domicilio": "9 De Julio 1181",
+        "localidad_id": 4807,
+        "name": "Mansilla",
+        "telefono": "4598798",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7139,
+          -31.6611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "domicilio": "Roque Saenz Pena 2499",
+        "localidad_id": 4807,
+        "name": "Marchesini",
+        "telefono": "4523289",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7249,
+          -31.6423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "domicilio": "Facundo Zuviria 6536",
+        "localidad_id": 4807,
+        "name": "Daniel Lagger",
+        "telefono": "4895994",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7035,
+          -31.6061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "domicilio": "Gral. Paz 6765",
+        "localidad_id": 4807,
+        "name": "Montes",
+        "telefono": "4605026",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.678,
+          -31.6094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "domicilio": "Aristobulo Del Valle 5642",
+        "localidad_id": 4807,
+        "name": "Morales",
+        "telefono": "4696396",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6976,
+          -31.616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "domicilio": "Ituzaingo 2169",
+        "localidad_id": 4807,
+        "name": "Sartor",
+        "telefono": "4555412",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6991,
+          -31.6385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "domicilio": "Av. Freyre 1598",
+        "localidad_id": 4807,
+        "name": "San Lorenzo",
+        "telefono": "4593487",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7217,
+          -31.6552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "domicilio": "Irigoyen Freyre 3206",
+        "localidad_id": 4807,
+        "name": "Scalzo",
+        "telefono": "4553083",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7139,
+          -31.6418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "domicilio": "Avda. Galicia 1881",
+        "localidad_id": 4807,
+        "name": "Escudero",
+        "telefono": "4607386",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6865,
+          -31.6067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "domicilio": "25 de Mayo esq. La Rioja",
+        "localidad_id": 4807,
+        "name": "Leiva",
+        "telefono": "4537968",
+        "turno": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7059,
+          -31.6458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "domicilio": "Las Heras 3844",
+        "localidad_id": 4807,
+        "name": "Stricker",
+        "telefono": "4539095",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6969,
+          -31.6336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "domicilio": "4 De Enero 1594",
+        "localidad_id": 4807,
+        "name": "Camusso",
+        "telefono": "4594678",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.715,
+          -31.6563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "domicilio": "San Jeronimo 2179",
+        "localidad_id": 4807,
+        "name": "Mercado Central",
+        "telefono": "4597200",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7093,
+          -31.6502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "domicilio": "Crespo 2808",
+        "localidad_id": 4807,
+        "name": "Asinari",
+        "telefono": "4530042",
+        "turno": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7078,
+          -31.6406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "domicilio": "Juan Jose Paso 3299",
+        "localidad_id": 4807,
+        "name": "Ortiz De Zarate",
+        "telefono": "4599865",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7208,
+          -31.6621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "domicilio": "Urquiza 2332",
+        "localidad_id": 4807,
+        "name": "Ayuso",
+        "telefono": "4526256",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7137,
+          -31.6471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "domicilio": "Iturraspe 3121",
+        "localidad_id": 4807,
+        "name": "Perotti",
+        "telefono": "4520004",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7085,
+          -31.6277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "domicilio": "Av.Gral Paz 5201",
+        "localidad_id": 4807,
+        "name": "German Lopez",
+        "telefono": "4528048",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6877,
+          -31.6224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "domicilio": "Rivadavia 3472",
+        "localidad_id": 4807,
+        "name": "Belgrano",
+        "telefono": "4561118",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7014,
+          -31.6364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "domicilio": "Blas Parera 8894",
+        "localidad_id": 4807,
+        "name": "Marcelo Galizzi",
+        "telefono": "4840578",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7278,
+          -31.5785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "domicilio": "Blas Parera 6751",
+        "localidad_id": 4807,
+        "name": "Vaquilla Garcia",
+        "telefono": "4891979",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7223,
+          -31.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "domicilio": "San Martin 2699",
+        "localidad_id": 4807,
+        "name": "Gottero",
+        "telefono": "4530644",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7062,
+          -31.6445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "domicilio": "Av. Aristobulo Del Valle 8486",
+        "localidad_id": 4807,
+        "name": "Baigorri",
+        "telefono": "4608846",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6921,
+          -31.5992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "domicilio": "Urquiza 3180",
+        "localidad_id": 4807,
+        "name": "Damiani",
+        "telefono": "4565287",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7111,
+          -31.6377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "domicilio": "Urquiza 1859",
+        "localidad_id": 4807,
+        "name": "Martinez Juan Jose",
+        "telefono": "4599949",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7155,
+          -31.653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "domicilio": "Alvear 6303",
+        "localidad_id": 4807,
+        "name": "Rojas Sotelo",
+        "telefono": "4607603",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6892,
+          -31.6115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "domicilio": "Gorritti 4449",
+        "localidad_id": 4807,
+        "name": "Ugolini",
+        "telefono": "4884194",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7143,
+          -31.5855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "domicilio": "Obispo Boneo 509",
+        "localidad_id": 4807,
+        "name": "Liprandi",
+        "telefono": "4602485",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6719,
+          -31.6095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "domicilio": "Suipacha 2506",
+        "localidad_id": 4807,
+        "name": "Acosta",
+        "telefono": "4556677",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7043,
+          -31.6401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "domicilio": "San Jeronimo 1900",
+        "localidad_id": 4807,
+        "name": "Wuilloud",
+        "telefono": "4597895",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7102,
+          -31.6534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "domicilio": "Francia 3400",
+        "localidad_id": 4807,
+        "name": "Irupé",
+        "telefono": "4532061",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7117,
+          -31.635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "domicilio": "Suipacha 2912",
+        "localidad_id": 4807,
+        "name": "Veronica Cano",
+        "telefono": "4558880",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7088,
+          -31.6392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "domicilio": "Alberdi 3500",
+        "localidad_id": 4807,
+        "name": "Bourdin",
+        "telefono": "4528066",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6924,
+          -31.6378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "domicilio": "Facundo Zuviria 4201",
+        "localidad_id": 4807,
+        "name": "Wagner",
+        "telefono": "4531215",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7055,
+          -31.6282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "domicilio": "Lopez Y Planes 4542",
+        "localidad_id": 4807,
+        "name": "Arias",
+        "telefono": "4563029",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7138,
+          -31.6242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "domicilio": "Las Heras 7304",
+        "localidad_id": 4807,
+        "name": "Finelli",
+        "telefono": "4600104",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6876,
+          -31.6021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "domicilio": "San Martin 2255",
+        "localidad_id": 4807,
+        "name": "El Inca",
+        "telefono": "4535657",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7077,
+          -31.6497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "domicilio": "Blas Parera 6574",
+        "localidad_id": 4807,
+        "name": "Marquez",
+        "telefono": "4898969",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7243,
+          -31.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "domicilio": "San Jeronimo 3101",
+        "localidad_id": 4807,
+        "name": "Zentner",
+        "telefono": "4532805",
+        "turno": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7063,
+          -31.6398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "domicilio": "Av. Facundo Zuviria 5323",
+        "localidad_id": 4807,
+        "name": "Pedro Kornijuk",
+        "telefono": "4882156",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7057,
+          -31.6177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "domicilio": "Bv.Pellegrini 3060",
+        "localidad_id": 4807,
+        "name": "Peralta",
+        "telefono": "4531674",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7095,
+          -31.6342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "domicilio": "Aristobulo Del Valle 7302",
+        "localidad_id": 4807,
+        "name": "Mai",
+        "telefono": "4602224",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.692,
+          -31.6012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "domicilio": "Av. Aristobulo Del Valle 7781",
+        "localidad_id": 4807,
+        "name": "Nebiolo",
+        "telefono": "4609883",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6923,
+          -31.5965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "domicilio": "Avenida Freyre 3315",
+        "localidad_id": 4807,
+        "name": "Agotegaray",
+        "telefono": "4552838",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7156,
+          -31.6352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "domicilio": "Pje Paraguay 5201",
+        "localidad_id": 4807,
+        "name": "Silvina Coll",
+        "telefono": "4843803",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7127,
+          -31.6171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "domicilio": "Boulevard Pellegrini 3465",
+        "localidad_id": 4807,
+        "name": "Pellegrini",
+        "telefono": "4537984",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7147,
+          -31.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "domicilio": "25 De Mayo 3136",
+        "localidad_id": 4807,
+        "name": "Bordignon",
+        "telefono": "4527618",
+        "turno": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.704,
+          -31.6398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "domicilio": "9 De Julio 3443",
+        "localidad_id": 4807,
+        "name": "Pardo",
+        "telefono": "4566267",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7063,
+          -31.6357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "domicilio": "Salvador Del Carril 1672",
+        "localidad_id": 4807,
+        "name": "Sen",
+        "telefono": "4605463",
+        "turno": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6881,
+          -31.6202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "domicilio": "Blas Parera 8235",
+        "localidad_id": 4807,
+        "name": "Throendly",
+        "telefono": "4895440",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7243,
+          -31.5918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "domicilio": "Av. Facundo Zuviria 6253",
+        "localidad_id": 4807,
+        "name": "Peiro",
+        "telefono": "4890670",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7044,
+          -31.6087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "domicilio": "Av. Aristobulo Del Valle 10396",
+        "localidad_id": 4807,
+        "name": "Rita Martinez",
+        "telefono": "4694874",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6921,
+          -31.5992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "domicilio": "Manuel Belgrano 6503",
+        "localidad_id": 4807,
+        "name": "Liliana Martinez",
+        "telefono": "4606780",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6908,
+          -31.6092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "domicilio": "Av. Aristobulo Del Valle 6378",
+        "localidad_id": 4807,
+        "name": "Costa Samita",
+        "telefono": "4602586",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6943,
+          -31.6096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "domicilio": "Boulevard Pellegrini 3187",
+        "localidad_id": 4807,
+        "name": "Santambrosio",
+        "telefono": "4521904",
+        "turno": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7113,
+          -31.634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "domicilio": "San Jeronimo 1801",
+        "localidad_id": 4807,
+        "name": "Argenti",
+        "telefono": "4592943",
+        "turno": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7105,
+          -31.6545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "domicilio": "1 De Mayo 2699",
+        "localidad_id": 4807,
+        "name": "Gabriela Volta",
+        "telefono": "4523002",
+        "turno": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.71,
+          -31.6438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134,
+        "domicilio": "Lopez Y Planes 3901",
+        "localidad_id": 4807,
+        "name": "Firmani",
+        "telefono": "4526526",
+        "turno": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7139,
+          -31.6245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135,
+        "domicilio": "Echague 7254",
+        "localidad_id": 4807,
+        "name": "Cattarino",
+        "telefono": "4604556",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6709,
+          -31.6064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136,
+        "domicilio": "4 De Enero 2599",
+        "localidad_id": 4807,
+        "name": "Perren",
+        "telefono": "4529302",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7116,
+          -31.6445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137,
+        "domicilio": "Facundo Zuviria 6833",
+        "localidad_id": 4807,
+        "name": "Palomino",
+        "telefono": "4842850",
+        "turno": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7027,
+          -31.6034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138,
+        "domicilio": "Marcial Candiotti 3499",
+        "localidad_id": 4807,
+        "name": "Pasteur",
+        "telefono": "4520608",
+        "turno": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6957,
+          -31.6373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139,
+        "domicilio": "Urquiza 2179",
+        "localidad_id": 4807,
+        "name": "Andrea Imhoff",
+        "telefono": "4597575",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7144,
+          -31.6492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 140,
+        "domicilio": "Av. Freyre 2298",
+        "localidad_id": 4807,
+        "name": "Bonazzola",
+        "telefono": "452-9098",
+        "turno": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7187,
+          -31.6463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 141,
+        "domicilio": "J. de la rosa 322",
+        "localidad_id": 4807,
+        "name": "Donadío",
+        "telefono": "4606020/4281",
+        "turno": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6684,
+          -31.6044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142,
+        "domicilio": "L.Flores II M.8 Dpto:378 P.Baja",
+        "localidad_id": 4807,
+        "name": "Queglas",
+        "telefono": "4897439",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7159,
+          -31.593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+        "domicilio": "Av. Gral Lopez 3272",
+        "localidad_id": 4807,
+        "name": "Salvatierra",
+        "telefono": "459-8352",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7186,
+          -31.6555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144,
+        "domicilio": "Lavalle 4201",
+        "localidad_id": 4807,
+        "name": "Imvinkelried",
+        "telefono": "456-6576",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6885,
+          -31.6319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145,
+        "domicilio": "Av. Urquiza 1067",
+        "localidad_id": 4807,
+        "name": "Bertolin",
+        "telefono": "4580047",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7182,
+          -31.6616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146,
+        "domicilio": "Av. Aristobulo del Valle 4900",
+        "localidad_id": 4807,
+        "name": "Pacce",
+        "telefono": "455-8517",
+        "turno": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6994,
+          -31.6228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 147,
+        "domicilio": "Av. Aristovulo del Valle 5118",
+        "localidad_id": 4807,
+        "name": "Irazabal",
+        "telefono": "452-6519",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.699,
+          -31.6208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148,
+        "domicilio": "San Martin 2983",
+        "localidad_id": 4807,
+        "name": "Azanza",
+        "telefono": "4811118",
+        "turno": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7052,
+          -31.6414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 149,
+        "domicilio": "Av Gral Paz 4921",
+        "localidad_id": 4807,
+        "name": "Plank",
+        "telefono": "4561136",
+        "turno": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6894,
+          -31.6248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 150,
+        "domicilio": "Av. A. del Valle 6600",
+        "localidad_id": 4807,
+        "name": "María Selva",
+        "telefono": "4003827",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6935,
+          -31.6076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 151,
+        "domicilio": "Saavedra 3081",
+        "localidad_id": 4807,
+        "name": "Fucksmann",
+        "telefono": "4523165",
+        "turno": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7139,
+          -31.6383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152,
+        "domicilio": "Santa Fe 1373",
+        "localidad_id": 4761,
+        "name": "O.S.B.A.",
+        "telefono": "44917736  ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6417,
+          -32.9443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 153,
+        "domicilio": "Moreno 1143",
+        "localidad_id": 4761,
+        "name": "Mutual Federada 25 De Junio",
+        "telefono": "          ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6517,
+          -32.9485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 154,
+        "domicilio": "Mendoza 3928",
+        "localidad_id": 4761,
+        "name": "Echesortu",
+        "telefono": "414380143",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6782,
+          -32.9446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 155,
+        "domicilio": "San Lorenzo 1130",
+        "localidad_id": 4761,
+        "name": "Bono Daniela",
+        "telefono": "414215068",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6381,
+          -32.9441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156,
+        "domicilio": "Bv.Segui 1202",
+        "localidad_id": 4761,
+        "name": "Margariti",
+        "telefono": "414645457",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6477,
+          -32.9787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 157,
+        "domicilio": "Cordoba 1351",
+        "localidad_id": 4761,
+        "name": "Peressotti",
+        "telefono": "414494678",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6417,
+          -32.9458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158,
+        "domicilio": "Arijon 494",
+        "localidad_id": 4761,
+        "name": "Lopez Temporelli",
+        "telefono": "4637703   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.64,
+          -33.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159,
+        "domicilio": "Velez Sarsfield 731",
+        "localidad_id": 4761,
+        "name": "Marcela Gonzalez",
+        "telefono": "4398025   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6751,
+          -32.925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160,
+        "domicilio": "Bv.Segui 1852",
+        "localidad_id": 4761,
+        "name": "Gentile",
+        "telefono": "414642218",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6568,
+          -32.9771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161,
+        "domicilio": "Urquiza 1998",
+        "localidad_id": 4761,
+        "name": "Schindler",
+        "telefono": "414254609",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6497,
+          -32.9407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162,
+        "domicilio": "Baigorria 2350",
+        "localidad_id": 4761,
+        "name": "Gomez Valle",
+        "telefono": "4554101   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7026,
+          -32.8936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163,
+        "domicilio": "Pte.Roca 835",
+        "localidad_id": 4761,
+        "name": "Mutual Amur",
+        "telefono": "          ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6453,
+          -32.9456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 164,
+        "domicilio": "Cafferata 835",
+        "localidad_id": 4761,
+        "name": "Felcaro",
+        "telefono": "4399401   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6752,
+          -32.9402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165,
+        "domicilio": "Viedma 1499",
+        "localidad_id": 4761,
+        "name": "Marsili",
+        "telefono": "4651644   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6691,
+          -34.5057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166,
+        "domicilio": "Eva Peron 6385",
+        "localidad_id": 4761,
+        "name": "Behun",
+        "telefono": "4594000   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7129,
+          -32.933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167,
+        "domicilio": "Tucuman 1714 ",
+        "localidad_id": 4761,
+        "name": "Muro",
+        "telefono": "4246700   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6456,
+          -32.9403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168,
+        "domicilio": "Cordoba 1469",
+        "localidad_id": 4761,
+        "name": "Del Siglo",
+        "telefono": "4487978   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6433,
+          -32.9455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 169,
+        "domicilio": "Superi 1466",
+        "localidad_id": 4761,
+        "name": "Lazarte",
+        "telefono": "4547689   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6993,
+          -32.8957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+        "domicilio": "San Luis 2922",
+        "localidad_id": 4761,
+        "name": "Lumani",
+        "telefono": "4351037   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6639,
+          -32.9445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171,
+        "domicilio": "Mendoza 4599",
+        "localidad_id": 4761,
+        "name": "Herbas",
+        "telefono": "4394197   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6873,
+          -32.943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172,
+        "domicilio": "Av. San Martin 5386",
+        "localidad_id": 4761,
+        "name": "Turin",
+        "telefono": "4646463   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6486,
+          -32.9996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 173,
+        "domicilio": "Ayacucho 1392",
+        "localidad_id": 4761,
+        "name": "Menoni",
+        "telefono": "4242928   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6288,
+          -32.9557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 174,
+        "domicilio": "Cordoba 2394",
+        "localidad_id": 4761,
+        "name": "Cordoba",
+        "telefono": "4401112   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6561,
+          -32.9432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "domicilio": "Avda Pellegrini 5935 38",
+        "localidad_id": 4761,
+        "name": "Caruso",
+        "telefono": "4577093   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7035,
+          -32.9485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 176,
+        "domicilio": "Lopez Buchardo 2350",
+        "localidad_id": 4761,
+        "name": "Navarro",
+        "telefono": "4556106   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7178,
+          -32.8932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 177,
+        "domicilio": "Av. Arijon 1647",
+        "localidad_id": 4761,
+        "name": "Solari Carlos",
+        "telefono": "4627353   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6568,
+          -33.003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "domicilio": "San Juan 3501",
+        "localidad_id": 4761,
+        "name": "Placenti",
+        "telefono": "4376076   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.672,
+          -32.9442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 179,
+        "domicilio": "Corrientes 1402",
+        "localidad_id": 4761,
+        "name": "La Capital",
+        "telefono": "4218361   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6442,
+          -32.953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 180,
+        "domicilio": "Lamadrid 1977",
+        "localidad_id": 4761,
+        "name": "Busalacchi",
+        "telefono": "4664980   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6618,
+          -32.9973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 181,
+        "domicilio": "San Lorenzo 2299",
+        "localidad_id": 4761,
+        "name": "Curto",
+        "telefono": "4259182   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6542,
+          -32.9411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 182,
+        "domicilio": "Mendoza 3989",
+        "localidad_id": 4761,
+        "name": "Roatta",
+        "telefono": "4301010   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.679,
+          -32.9445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 183,
+        "domicilio": "Pte. Peron 6389",
+        "localidad_id": 4761,
+        "name": "Azar",
+        "telefono": "4560483   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.708,
+          -32.9661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184,
+        "domicilio": "Mendoza 6255",
+        "localidad_id": 4761,
+        "name": "Ivarz",
+        "telefono": "4569043   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7075,
+          -32.9401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185,
+        "domicilio": "Necochea 1687",
+        "localidad_id": 4761,
+        "name": "Lorenzini",
+        "telefono": "4485658   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6268,
+          -32.9596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+        "domicilio": "Mendoza 4298",
+        "localidad_id": 4761,
+        "name": "Hernandez Casini",
+        "telefono": "4388606   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6831,
+          -32.9437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 187,
+        "domicilio": "Av Corrientes 785",
+        "localidad_id": 4761,
+        "name": "Corrientes",
+        "telefono": "4214499   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6423,
+          -32.9455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 188,
+        "domicilio": "Ovidio Lagos 5436",
+        "localidad_id": 4761,
+        "name": "Liberatore",
+        "telefono": "4652269   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6756,
+          -33.001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 189,
+        "domicilio": "Guatemala 1403",
+        "localidad_id": 4761,
+        "name": "M.A.Garcia",
+        "telefono": "4560702   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7171,
+          -32.9448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 190,
+        "domicilio": "Riobamba 1814",
+        "localidad_id": 4761,
+        "name": "Alemana",
+        "telefono": "4853404   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6522,
+          -32.9611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 191,
+        "domicilio": "San Luis 902",
+        "localidad_id": 4761,
+        "name": "Maipu",
+        "telefono": "4213724   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.636,
+          -32.9495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 192,
+        "domicilio": "Bv.Avellaneda 2638",
+        "localidad_id": 4761,
+        "name": "Cativiela",
+        "telefono": "4327237   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6847,
+          -32.9606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193,
+        "domicilio": "Bv.Segui 1701",
+        "localidad_id": 4761,
+        "name": "Galizia",
+        "telefono": "4653080   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6547,
+          -32.9774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 194,
+        "domicilio": "Rioja 709",
+        "localidad_id": 4761,
+        "name": "Araujo",
+        "telefono": "4493684   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6332,
+          -32.9487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 195,
+        "domicilio": "San Luis 2566",
+        "localidad_id": 4761,
+        "name": "Perdomo",
+        "telefono": "4493365   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6591,
+          -32.9454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 196,
+        "domicilio": "Pavon 5183",
+        "localidad_id": 4761,
+        "name": "Lifschitz",
+        "telefono": "4622707   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6342,
+          -32.997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 197,
+        "domicilio": "San Martin 5241",
+        "localidad_id": 4761,
+        "name": "Lingua De Solari",
+        "telefono": "4637375   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6482,
+          -32.998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 198,
+        "domicilio": "Pte.Roca 1462",
+        "localidad_id": 4761,
+        "name": "Di Monaco",
+        "telefono": "4269682   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.127,
+          -38.939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 199,
+        "domicilio": "Mitre 2299",
+        "localidad_id": 4761,
+        "name": "La Paz",
+        "telefono": "4815436   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6439,
+          -32.9638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 200,
+        "domicilio": "Eva Peron 8166",
+        "localidad_id": 4761,
+        "name": "Cubells",
+        "telefono": "4517460   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7381,
+          -32.9286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "domicilio": "Urquiza 1802",
+        "localidad_id": 4761,
+        "name": "Homeos",
+        "telefono": "4260107   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.647,
+          -32.9412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "domicilio": "Arijon 2199",
+        "localidad_id": 4761,
+        "name": "Masarotto",
+        "telefono": "4652960   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6648,
+          -33.0033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "domicilio": "Sarmiento 3202",
+        "localidad_id": 4761,
+        "name": "Pieristei",
+        "telefono": "4824482   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6452,
+          -32.9744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "domicilio": "Urquiza 3146",
+        "localidad_id": 4761,
+        "name": "Schlietter",
+        "telefono": "4392918   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6654,
+          -32.9379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 205,
+        "domicilio": "La Republica 7607",
+        "localidad_id": 4761,
+        "name": "Barbagallo",
+        "telefono": "4515075   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7256,
+          -32.919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 206,
+        "domicilio": "Bv.Rondeau 3695",
+        "localidad_id": 4761,
+        "name": "Moledo",
+        "telefono": "4550227   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6964,
+          -32.8823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 207,
+        "domicilio": "Mendoza 7940",
+        "localidad_id": 4761,
+        "name": "Bosaz",
+        "telefono": "4585435   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7323,
+          -32.9401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 208,
+        "domicilio": "Catamarca 1803",
+        "localidad_id": 4761,
+        "name": "Italia",
+        "telefono": "4497898   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6465,
+          -32.9389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 209,
+        "domicilio": "Av. Francia 1717",
+        "localidad_id": 4761,
+        "name": "Nuñez",
+        "telefono": "4324956   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6684,
+          -32.9525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 210,
+        "domicilio": "Montevideo 5602",
+        "localidad_id": 4761,
+        "name": "Patris",
+        "telefono": "4569083   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6996,
+          -32.9471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 211,
+        "domicilio": "3 De Febrero 1283",
+        "localidad_id": 4761,
+        "name": "Ronchi",
+        "telefono": "4113333   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6423,
+          -32.9522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 212,
+        "domicilio": "Corrientes 2424",
+        "localidad_id": 4761,
+        "name": "Scozziero",
+        "telefono": "4821922   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6471,
+          -32.9647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 213,
+        "domicilio": "Av. Pellegrini 1395",
+        "localidad_id": 4761,
+        "name": "San Jose",
+        "telefono": "4811521   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.645,
+          -32.9565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 214,
+        "domicilio": "Provincias Unidas 642",
+        "localidad_id": 4761,
+        "name": "Salk",
+        "telefono": "4568205   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7128,
+          -32.9351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 215,
+        "domicilio": "Corrientes 2198",
+        "localidad_id": 4761,
+        "name": "La Salud",
+        "telefono": "4822326   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6465,
+          -32.9622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 216,
+        "domicilio": "Mendoza 7702",
+        "localidad_id": 4761,
+        "name": "Antartida",
+        "telefono": "3414563208",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7277,
+          -32.9407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 217,
+        "domicilio": "Mendoza 5802",
+        "localidad_id": 4761,
+        "name": "Franz",
+        "telefono": "4563350   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7023,
+          -32.9403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 218,
+        "domicilio": "Brig. Gral .Juan Manuel de Rosas 1309",
+        "localidad_id": 4761,
+        "name": "Astral",
+        "telefono": "4401506   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6874,
+          -32.9438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 219,
+        "domicilio": "Presidente Peron 3458",
+        "localidad_id": 4761,
+        "name": "Scolari",
+        "telefono": "4335886   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6745,
+          -32.9564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220,
+        "domicilio": "Av.Alberdi 750",
+        "localidad_id": 4761,
+        "name": "Faggi",
+        "telefono": "4292076   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.683,
+          -32.9187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 221,
+        "domicilio": "San Juan 601",
+        "localidad_id": 4761,
+        "name": "Grilli",
+        "telefono": "426999    ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6323,
+          -32.9514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 222,
+        "domicilio": "Mendoza 847",
+        "localidad_id": 4761,
+        "name": "Zaeta",
+        "telefono": "          ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6359,
+          -32.9521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223,
+        "domicilio": "Bv. Oroño 5835 B",
+        "localidad_id": 4761,
+        "name": "Dimarco",
+        "telefono": "4651584   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6651,
+          -33.0047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 224,
+        "domicilio": "Tucuman 1900",
+        "localidad_id": 4761,
+        "name": "Embon",
+        "telefono": "4259090   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6481,
+          -32.9398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 225,
+        "domicilio": "Av. Pellegrini 1048",
+        "localidad_id": 4761,
+        "name": "Koval",
+        "telefono": "4817000   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6401,
+          -32.9574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 226,
+        "domicilio": "Av. Pcias. Unidas 3181",
+        "localidad_id": 4761,
+        "name": "Ciucci",
+        "telefono": "4567760   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7116,
+          -32.9655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227,
+        "domicilio": "Av. San Martin 4397",
+        "localidad_id": 4761,
+        "name": "Mir",
+        "telefono": "4641044   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6462,
+          -32.9885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228,
+        "domicilio": "J.M.De Rosas 2096",
+        "localidad_id": 4761,
+        "name": "Mozzicafreddo",
+        "telefono": "4811031   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6899,
+          -32.9532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 229,
+        "domicilio": "Urquiza 1149",
+        "localidad_id": 4761,
+        "name": "Moscato",
+        "telefono": "4485246   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.638,
+          -32.9429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 230,
+        "domicilio": "Bv. Oroño 2875",
+        "localidad_id": 4761,
+        "name": "Cruz Del Sur",
+        "telefono": "4853100   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6594,
+          -32.9679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 231,
+        "domicilio": "Sarmiento 1416",
+        "localidad_id": 4761,
+        "name": "Gabbi",
+        "telefono": "4484558   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6401,
+          -32.954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 232,
+        "domicilio": "Guemes 2127",
+        "localidad_id": 4761,
+        "name": "Agosti",
+        "telefono": "44497768  ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6498,
+          -32.9334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 233,
+        "domicilio": "Casiano Casas 1502",
+        "localidad_id": 4761,
+        "name": "Bustamante",
+        "telefono": "45458517  ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7053,
+          -32.9011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 234,
+        "domicilio": "San Luis 2101",
+        "localidad_id": 4761,
+        "name": "Suc.De Maria Marta Rovai",
+        "telefono": "4262690   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6526,
+          -32.9465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 235,
+        "domicilio": "Genova 1199",
+        "localidad_id": 4761,
+        "name": "Genova",
+        "telefono": "4300468   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6804,
+          -32.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 236,
+        "domicilio": "Montevideo 1983",
+        "localidad_id": 4761,
+        "name": "Cubo",
+        "telefono": "4490607   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6528,
+          -32.9539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 237,
+        "domicilio": "Av.Pellegrini 1195",
+        "localidad_id": 4761,
+        "name": "Pellegrini",
+        "telefono": "4854100   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6422,
+          -32.957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 238,
+        "domicilio": "San Luis 3039",
+        "localidad_id": 4761,
+        "name": "Mamelucco",
+        "telefono": "4306891   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6655,
+          -32.9442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239,
+        "domicilio": "Pellegrini 3995",
+        "localidad_id": 4761,
+        "name": "Luraschi",
+        "telefono": "4333592   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6805,
+          -32.9502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 240,
+        "domicilio": "Caferata 632",
+        "localidad_id": 4761,
+        "name": "Aguila",
+        "telefono": "4381941   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6708,
+          -32.9388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 241,
+        "domicilio": "Martin Fierro 245",
+        "localidad_id": 4761,
+        "name": "Fessia",
+        "telefono": "4535049   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6898,
+          -32.8763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 242,
+        "domicilio": "San Juan 3014",
+        "localidad_id": 4761,
+        "name": "La Internacional",
+        "telefono": "4373770   ",
+        "turno": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6654,
+          -32.9454
+        ]
       }
     }
   ]
