@@ -7,26 +7,10 @@ document.addEventListener("DOMContentLoaded", function() {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
 
-  var geoJSON = {
-    "type": "FeatureCollection",
-    "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1,
-        "domicilio": "Blas Parera 7831",
-        "localidad_id": 4807,
-        "name": "Menapace",
-        "telefono": "4890660",
-        "turno": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-60.724, -31.5916]
-      }
-    }
-    ]
+  var farmaciasReq = new XMLHttpRequest();
+  farmaciasReq.onload = function() {
+    L.geoJson(JSON.parse(this.responseText)).addTo(map);
   }
-
-  L.geoJson(geoJSON).addTo(map);
+  farmaciasReq.open("get", "farmacias.json");
+  farmaciasReq.send();
 });

@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "domicilio": "Blas Parera 7831",
+        "localidad_id": 4807,
+        "name": "Menapace",
+        "telefono": "4890660",
+        "turno": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.724, -31.5916]
+      }
+    }
+  ]
+}
