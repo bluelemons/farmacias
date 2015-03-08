@@ -2,7 +2,7 @@ var gulp = require('gulp'),
     connect = require('gulp-connect');
 
 gulp.task('reload', function() {
-  gulp.src('public/**/*')
+  gulp.src('public/**/!(~)')
     .pipe(connect.reload());
 });
 
