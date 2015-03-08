@@ -7,7 +7,7 @@ gulp.task('reload', function() {
 });
 
 gulp.task('watch', function() {
-  gulp.watch(['public/**/*'], ['reload']);
+  gulp.watch(['public/**/*.@(css|html|js|json)'], ['reload']);
 });
 
 gulp.task('server', function() {
