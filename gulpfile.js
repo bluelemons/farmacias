@@ -10,7 +10,7 @@ gulp.task('reload', function() {
 
 gulp.task('watch', function() {
   gulp.watch(['public/**/*.@(css|html|js|json)'], ['reload']);
-  gulp.watch(['bundle.js, lib/**/*.js'], ['browserify', 'reload']);
+  gulp.watch(['bundle.js', 'lib/**/*.js'], ['browserify']);
 });
 
 gulp.task('server', function() {
