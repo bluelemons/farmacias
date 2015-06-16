@@ -1,5 +1,7 @@
-var gulp = require('gulp'),
-    connect = require('gulp-connect');
+var gulp = require('gulp');
+var connect = require('gulp-connect');
+var browserify = require('browserify');
+var source = require('vinyl-source-stream');
 
 gulp.task('reload', function() {
   gulp.src('public/**/!(~)')
@@ -8,6 +10,7 @@ gulp.task('reload', function() {
 
 gulp.task('watch', function() {
   gulp.watch(['public/**/*.@(css|html|js|json)'], ['reload']);
+  gulp.watch(['bundle.js, lib/**/*.js'], ['browserify', 'reload']);
 });
 
 gulp.task('server', function() {
@@ -18,4 +21,11 @@ gulp.task('server', function() {
   });
 });
 
-gulp.task('default', ['server', 'watch']);
+gulp.task('default', ['browserify', 'server', 'watch']);
+
+gulp.task('browserify', function() {
+  return browserify('./bundle.js')
+    .bundle()
+    .pipe(source('bundle.js'))
+    .pipe(gulp.dest('./public/'));
+});
