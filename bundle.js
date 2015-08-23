@@ -8,10 +8,8 @@ var farmaciaIcon = L.icon({
   shadowAnchor: [26, 35],
   popupAnchor: [0, -22]
 });
-var turno = require('dma')('2015-03-10T08:00-0300', 11);
+var turno = require('dma')('2015-08-09T08:00-0300', 11);
 var turno_actual = turno(new Date()) + 1;
-
-console.log(turno_actual);
 
 var map = L.map('map').setView(
     [-31.6060, -60.7087], 12);
@@ -52,7 +50,7 @@ function addTitle() {
     body  = document.body,
   hoy   = new Date();
 
-  title.innerHTML = 'Farmacias de turno' + hoy + ' (turno: ' + turno_actual + ')';
+  title.innerHTML = 'Farmacias de turno' + ' (turno ' + turno_actual + ')';
 
   body.insertBefore(title, body.childNodes[0]);
 }
