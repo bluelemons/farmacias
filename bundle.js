@@ -3,6 +3,9 @@ var farmaciaIcon = L.icon({
   iconUrl: 'farmacia.png',
   iconSize: [24, 24],
   iconAnchor: [12, 24],
+  shadowUrl: 'shadow.png',
+  shadowSize: [51, 37],
+  shadowAnchor: [26, 35],
   popupAnchor: [0, -22]
 });
 var turno = require('dma')('2015-03-10T08:00-0300', 11);
