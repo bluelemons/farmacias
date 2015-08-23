@@ -1,0 +1,7 @@
+{
+  "name": "farmacias",
+  "root": "./public",
+  "routes": {
+    "**": "index.html"
+  }
+}
