@@ -1,6 +1,9 @@
 var L = require('leaflet');
 var farmaciaIcon = L.icon({
-  iconUrl: 'farmacia.png'
+  iconUrl: 'farmacia.png',
+  iconSize: [24, 24],
+  iconAnchor: [12, 24],
+  popupAnchor: [0, -22]
 });
 var turno = require('dma')('2015-03-10T08:00-0300', 11);
 var turno_actual = turno(new Date()) + 1;
@@ -20,7 +23,8 @@ var farmaciasReq = new XMLHttpRequest();
 farmaciasReq.onload = function() {
   L.geoJson(JSON.parse(this.responseText), {
     pointToLayer: function(feature, latlng) {
-      return L.marker(latlng, { icon: farmaciaIcon });
+      return L.marker(latlng, { icon: farmaciaIcon })
+        .bindPopup(buildPopup(feature));
     },
     filter: function(feature) {
       var turno = feature.properties.turno;
@@ -32,6 +36,13 @@ farmaciasReq.onload = function() {
 farmaciasReq.open("get", "farmacias.json");
 farmaciasReq.send();
 addTitle();
+
+function buildPopup(feature) {
+  var data = feature.properties;
+  return '<h3>' + data.name + '</h3>' +
+    '<p>' + data.domicilio + '<br/>' +
+      data.telefono + '</p>'
+}
 
 function addTitle() {
   var title = document.createElement('h1')
