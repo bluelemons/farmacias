@@ -29,3 +29,5 @@ gulp.task('browserify', function() {
     .pipe(source('bundle.js'))
     .pipe(gulp.dest('./public/'));
 });
+
+gulp.task('build', ['browserify'])
