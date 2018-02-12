@@ -13,16 +13,16 @@ var turno_actual = turno(new Date()) + 1;
 
 var map = L.map('map', {
   center: [-31.6060, -60.7087],
-  zoom: 12,
-  minZoom: 11,
+  zoom: 13,
+  minZoom: 12,
   maxZoom: 15,
   maxBounds: [[-31.548936, -60.768814],
               [-31.690675, -60.629425]]
 })
 
 // add an OpenStreetMap tile layer
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">' +
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://openstreetmap.org/copyright">' +
     'OpenStreetMap</a> contributors'
     }).addTo(map);
 
