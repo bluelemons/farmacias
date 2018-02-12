@@ -11,8 +11,14 @@ var farmaciaIcon = L.icon({
 var turno = require('dma')('2015-08-09T08:00-0300', 11);
 var turno_actual = turno(new Date()) + 1;
 
-var map = L.map('map').setView(
-    [-31.6060, -60.7087], 12);
+var map = L.map('map', {
+  center: [-31.6060, -60.7087],
+  zoom: 12,
+  minZoom: 11,
+  maxZoom: 15,
+  maxBounds: [[-31.548936, -60.768814],
+              [-31.690675, -60.629425]]
+})
 
 // add an OpenStreetMap tile layer
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
