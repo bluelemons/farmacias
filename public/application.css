@@ -1,4 +1,18 @@
-#map {
-  height: 400px;
-  width: 50%;
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html, body, #map {
+  height: 100%;
+  width: 100vw;
+}
+
+h1 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  color: hsla(35, 100%, 12%, 0.7);
+  font-size: 1.4em;
+  z-index: 1;
 }
